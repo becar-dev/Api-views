@@ -6,3 +6,4 @@ __pycache__/
 .nox/
 .coverage.*
 .hypothesis/
+db.sqlite3
